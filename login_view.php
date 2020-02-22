@@ -4,7 +4,12 @@
 <title>Login View</title>
 </head>
 <body>
-    
-<p>Selamat Datang di Login View Kami</p>
+<div class="contaier">
+    <div class="row">
+     </div>
+      </div>
 </body>
+<footer>
+    
+</footer>
 </html>
